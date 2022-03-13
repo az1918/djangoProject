@@ -4,3 +4,9 @@
 
 # virtual env
 venv/
+
+# Database
+db.sqlite3
+
+#migrations
+blog/migrations/
